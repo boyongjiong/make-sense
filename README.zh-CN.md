@@ -178,3 +178,4 @@ Copyright (c) 2019-present, Piotr Skalski
 [11]: https://www.tensorflow.org/lite/models/pose_estimation/overview
 [12]: https://towardsdatascience.com/chess-rolls-or-basketball-lets-create-a-custom-object-detection-model-ef53028eac7d
 [13]: https://github.com/SkalskiP/ILearnDeepLearning.py/tree/master/02_data_science_toolkit/02_yolo_object_detection
+[14]: ./README.zh-CN.md
