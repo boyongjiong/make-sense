@@ -2,7 +2,7 @@
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/SkalskiP/make-sense?include_prereleases)
 [![Gitter](https://badges.gitter.im/make-sense-ai/community.svg)](https://gitter.im/make-sense-ai/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-<h1 align="center">makesense.ai [zh-CN][14]</h1>
+<h1 align="center">makesense.ai <h3>[zh-CN][14]<h3></h1>
 
 <p align="center"> 
     <img width="600" src=".//public/ico/main-image-dark_alter.png" alt="Logo">
@@ -179,3 +179,4 @@ Copyright (c) 2019-present, Piotr Skalski
 [11]: https://www.tensorflow.org/lite/models/pose_estimation/overview
 [12]: https://towardsdatascience.com/chess-rolls-or-basketball-lets-create-a-custom-object-detection-model-ef53028eac7d
 [13]: https://github.com/SkalskiP/ILearnDeepLearning.py/tree/master/02_data_science_toolkit/02_yolo_object_detection
+[14]: ./README.zh-CN.md
