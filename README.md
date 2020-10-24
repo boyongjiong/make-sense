@@ -2,7 +2,7 @@
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/SkalskiP/make-sense?include_prereleases)
 [![Gitter](https://badges.gitter.im/make-sense-ai/community.svg)](https://gitter.im/make-sense-ai/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-<h1 align="center">makesense.ai [zh-CN][14]</h1>
+<h1 align="center">makesense.ai</h1>
 
 <p align="center"> 
     <img width="600" src=".//public/ico/main-image-dark_alter.png" alt="Logo">
