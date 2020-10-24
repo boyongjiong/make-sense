@@ -2,14 +2,14 @@
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/SkalskiP/make-sense?include_prereleases)
 [![Gitter](https://badges.gitter.im/make-sense-ai/community.svg)](https://gitter.im/make-sense-ai/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-<h1 align="center">makesense.ai <h3>[zh-CN][14]<h3></h1>
+<h1 align="center">makesense.ai</h1>
+README: [en][14] [zh-CN][15]
 
 <p align="center"> 
     <img width="600" src=".//public/ico/main-image-dark_alter.png" alt="Logo">
 </p>
 
 ## Description
-
 [makesense.ai][1] is a free to use online tool for labelling photos. Thanks to the use of a browser it does not require any complicated installation - just visit the website and you are ready to go. It also doesn't matter which operating system you're running on - we do our best to be truly cross-platform. It is perfect for small computer vision deeplearning projects, making the process of preparing a dataset much easier and faster. Prepared labels can be downloaded  in one of multiple supported formats. The application was written in TypeScript and is based on React/Redux duo.
 
 ## Motto
@@ -179,4 +179,5 @@ Copyright (c) 2019-present, Piotr Skalski
 [11]: https://www.tensorflow.org/lite/models/pose_estimation/overview
 [12]: https://towardsdatascience.com/chess-rolls-or-basketball-lets-create-a-custom-object-detection-model-ef53028eac7d
 [13]: https://github.com/SkalskiP/ILearnDeepLearning.py/tree/master/02_data_science_toolkit/02_yolo_object_detection
-[14]: ./README.zh-CN.md
+[14]: ./README.md
+[15]: ./README.zh-CN.md
