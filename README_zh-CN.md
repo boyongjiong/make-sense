@@ -161,7 +161,7 @@ docker logs make_sense
 
 ## License
 
-This project is licensed under the GPL-3.0 License - see the [LICENSE][2] file for details
+本项目采用 GPL-3.0 许可协议进行授权，详见 [LICENSE][2] 文件。
 
 Copyright (c) 2019-present, Piotr Skalski
 
